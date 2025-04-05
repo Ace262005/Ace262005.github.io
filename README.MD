@@ -64,10 +64,12 @@
       <tr>
         <td>
           <marquee behavior="scroll" direction="left">
-            <img src="images (4).jpeg" alt="Picture 1">
-            <img src="images (5).jpeg" alt="Picture 2">
-            <img src="images (7).jpeg"
-            <img src="images (6).jpeg"
+            <img src="images1.jpeg" alt="Picture1">
+            <img src="images2.jpeg" alt=Picture2">
+             <img src=images3.jpeg" alt=Picture3">
+            <img src="images4.jpeg" alt="Picture4">
+            <img src="images5.jpeg" alt=Picture5">
+            <img src="images6.jpeg" alt=Picture6">
           </marquee>
         </td>
       </tr>
